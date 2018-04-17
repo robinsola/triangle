@@ -1,0 +1,34 @@
+* {
+  box-sizing: border-box;
+}
+
+#sideLengths {
+  background-color: lightblue;
+  width: 70%;
+  margin: 0 auto;
+  text-align: center;
+  padding: 15px;
+  font-family: sans-serif;
+  border-radius: 10px;
+}
+
+.container {
+  border-radius: 10px;
+  border: 2px solid #FFAACC;
+  width: 50%;
+  margin: 15px auto;
+  padding: 25px;
+  background-color: #CCFFCC;
+}
+
+button {
+  border-radius: 10px;
+}
+
+#myButton:hover {
+cursor: pointer;
+}
+
+.output {
+  display: none;
+}
